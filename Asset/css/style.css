@@ -16,7 +16,7 @@
     gap: 1rem;
   }
   p {
-    border: 1px solid rgba(255, 255, 255, 0.103);
+    border: 1px solid transparent;
     padding: 2rem;
     text-align: center;
     color: white;
